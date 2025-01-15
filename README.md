@@ -1,1 +1,1 @@
-# this is a test repofor the practicals
+# this is a test repo for the practicals. i have updated the readme file.
